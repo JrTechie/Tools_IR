@@ -1,0 +1,1 @@
+Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
